@@ -16,6 +16,7 @@
         "_locales/zh/mbit-strings.json"
 
     ],
+	"public": "icon.png",
     "testFiles": [
         "test.ts"
     ],
